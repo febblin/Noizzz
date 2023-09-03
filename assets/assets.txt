@@ -1,6 +1,9 @@
 d:assets:assets:0:application/unknown:1
 d:shaders:shaders:0:application/unknown:1
+b:shaders/fragment.sh:shaders/fragment-4446cda70050d511ae6a3d437418846a.sh:835:application/x-shar:1
+b:shaders/invert.frag:shaders/invert-2110af24b130a5a61c54a0aba4b4e2eb.frag:549:application/unknown:1
 b:shaders/new.frag:shaders/new-b98da631c741562e30fda20643727ae1.frag:2247:application/unknown:1
+b:shaders/rounds.frag:shaders/rounds-8d6cbe60629fa232da2c77b763bb5822.frag:1149:application/unknown:1
 b:shaders/vertex.sh:shaders/vertex-0f99233b64f04afbbc1dc07ff21581bb.sh:1772:application/x-shar:1
 i:волк.jpg:волк-6aff8ad49873bebba0689cf14de8c7e2.jpg:348028:image/jpeg:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
